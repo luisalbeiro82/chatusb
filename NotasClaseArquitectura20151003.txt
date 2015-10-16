@@ -1,0 +1,46 @@
+﻿03/10/2015
+Clase practica Arquitectura de Software.
+
+Objectivo:
+patrones
+tacticas
+framework
+herramientas
+producto minimo viable.
+
+
+Atributos de Calidad: (pueden ser limitaciones o restricciones)
+Estandard ISO 25000 SQuaRE (Software Product Quiality Requeriments and Evaluation)
+Divions del modelo de calidad en ISO 25010:
+ - Functional Suitability
+ - Performance efficiency
+ - Compatibility
+ - Usability
+ - Reliability (Disponibilidad, tolerancia a fallos, recoverability)
+ - Security
+ - Maintainability
+ - Portability
+
+ Debe tener metrica de calidad. Si no esta en el documento entonces se debe suponer.
+
+Patrones de Software: (EStilos Arquitecturales)
+
+ - Patron de capas.
+ - Patron Broker. 
+ 		- Separa los usuarios del servicio. Permite desacoplar
+ - Patron filtro y tuberia.
+ 		- Diferentes componenentes, métodos que tenga alta cohesion y bajo acoplamiento.
+ - Patron cliente - servidor
+ - Patron punto a punto. (peer to peer)
+ - Patron arquitecura orientada a servicio.
+ 		- Permite interoperabilidad de componentes distribuidos.
+ - Patron publicador - subscriptor
+ - Patron datos compartidos
+
+
+
+
+github.com/gdgcali
+
+
+juan.gomez01@gmail.com

@@ -1,0 +1,25 @@
+Atributos de Calidad:
+
+ - Security:
+  	- Inicio de session de usuario
+ 	- Encriptar los mensajes
+ 
+ - Compatibility: 
+ 	- Debe ser compatible con: Teléfonos Android, IOS X, Windows Phone. 
+
+- Reliability (Disponibilidad, tolerancia a fallos, recoverability):
+   - Debe estar disponbile 7 x 24. 
+   - Debe tener servidor con balanceo de carga. 
+   - Debe tener servidor de respaldo. 
+   - Debe realizar copias de seguridad diarias. 
+
+ - Functional Suitability
+ - Performance efficiency
+  - Maintainability
+
+
+
+Tarea1:
+
+1. Implementar un framework MVC - Como angular  (Esto en la practica)    17/10/2015
+2. hacer los diagramas, tecinicas de calidad. etc   (Esto en la teoria)

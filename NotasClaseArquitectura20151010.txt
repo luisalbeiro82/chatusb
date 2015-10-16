@@ -1,0 +1,14 @@
+10/09/2015
+Clase arquitectura de software.
+
+- Notacion UML
+- Estilos de Arquitectura
+- Patrones
+- Tareas entregables para dentro de 8 días.
+
+3 tipos de diseño:
+	- informal (sketch (c4))
+	- semiformales (UML)
+	- formales (sujetas a pruebas matematicas (sysML)) (TAO )
+
+"El arquitecto evangeliza sobre el uso de estándares y tecnologia"
